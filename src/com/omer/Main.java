@@ -14,7 +14,7 @@ public class Main {
 //    public static TaxCalculator getCalculator(){
 //        return (new TaxCalculator2020());
 //    }
-    
+
     public static void main(String[] args) {
 
 
